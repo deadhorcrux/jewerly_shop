@@ -1,0 +1,43 @@
+.gradient-custom {
+    background: #fffc00;
+
+    background: -webkit-linear-gradient(to right, rgba(255, 252, 0, 1), rgba(255, 153, 0, 1));
+
+    background: linear-gradient(to right, rgba(255, 252, 0, 1), rgba(255, 153, 0, 1));
+}
+
+.navbar-custom {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}
+
+.col-custom {
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin-bottom: 1rem;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.small-select {
+    width: 200px;
+    height: 30px;
+    font-size: 14px;
+    padding: 5px;
+}
+
+.ultra-small-select{
+    width: 50px;
+    height: 30px;
+    font-size: 14px;
+    padding: 5px;
+}
+
+.move-button{
+    width: 50px;
+}
+
